@@ -1,0 +1,151 @@
+Enter name for player 1: Tim
+Enter name for player 2: Computer
+Tim, choose your token color (B or W): b
+Computer, choose your token color (B or W): W
+Which player will start first? (1 or 2): 1
+
+----- G A M E  S T A R T -----
+
+Tim, enter your move (B/P BD): 4/8 1r
+
+CURRENT BOARD
++---+---+
+|...|...|
+|...|...|
+|...|...|
++---+---+
+|...|...|
+|...|...|
+|...|.b.|
++---+---+
+
+Computer, enter your move (B/P BD): 
+
+CURRENT BOARD
++---+---+
+|...|...|
+|...|...|
+|w..|...|
++---+---+
+|...|...|
+|...|...|
+|...|.b.|
++---+---+
+
+Tim, enter your move (B/P BD): 4/9 1r
+
+CURRENT BOARD
++---+---+
+|w..|...|
+|...|...|
+|...|...|
++---+---+
+|...|...|
+|...|...|
+|...|.bb|
++---+---+
+
+Computer, enter your move (B/P BD): 
+
+CURRENT BOARD
++---+---+
+|...|...|
+|w..|...|
+|w..|...|
++---+---+
+|...|...|
+|...|...|
+|...|.bb|
++---+---+
+
+Tim, enter your move (B/P BD): 4/7 1r
+
+CURRENT BOARD
++---+---+
+|ww.|...|
+|...|...|
+|...|...|
++---+---+
+|...|...|
+|...|...|
+|...|bbb|
++---+---+
+
+Computer, enter your move (B/P BD): 
+
+CURRENT BOARD
++---+---+
+|w..|...|
+|w..|...|
+|w..|...|
++---+---+
+|...|...|
+|...|...|
+|...|bbb|
++---+---+
+
+Tim, enter your move (B/P BD): 3/3 1r
+
+CURRENT BOARD
++---+---+
+|www|...|
+|...|...|
+|...|...|
++---+---+
+|..b|...|
+|...|...|
+|...|bbb|
++---+---+
+
+Computer, enter your move (B/P BD): 
+
+CURRENT BOARD
++---+---+
+|w..|w..|
+|w..|...|
+|w..|...|
++---+---+
+|..b|...|
+|...|...|
+|...|bbb|
++---+---+
+
+Tim, enter your move (B/P BD): 3/6 2l
+
+CURRENT BOARD
++---+---+
+|w..|...|
+|w..|...|
+|w..|w..|
++---+---+
+|..b|...|
+|..b|...|
+|...|bbb|
++---+---+
+
+Computer, enter your move (B/P BD): 
+
+CURRENT BOARD
++---+---+
+|...|...|
+|w..|...|
+|www|w..|
++---+---+
+|..b|...|
+|..b|...|
+|...|bbb|
++---+---+
+
+Tim, enter your move (B/P BD): 2/8 3r
+
+CURRENT BOARD
++---+---+
+|...|...|
+|w..|...|
+|www|wb.|
++---+---+
+|...|...|
+|...|...|
+|.bb|bbb|
++---+---+
+Tim wins the game!

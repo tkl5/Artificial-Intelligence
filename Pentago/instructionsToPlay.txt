@@ -1,0 +1,15 @@
+1. Simply run PentagoMain in your IDE (Requires Java SE 7 or later).
+
+2. When prompted, enter your player name. The default AI name will be generated as 'Computer'.
+
+3. Choose your marble color, enter 'b' or 'w' (Case does not matter)
+
+4. Decide who moves first - enter '1' to have human player start, or '2' to have the computer start.
+	- Any other input will default to computer starting first.
+
+5. Enter your move in the format: [block]/[position] [block][direction]
+	- 'block' is numbers 1 - 4, indicating quadrants in the board (1 top-left, 2 top-right, 3 bot-left, 4 bot-right).
+	- 'position' is numbers 1-9, indicating location of marble in the specified block.
+	- 'direction' is either 'R' or 'L', showing direction of block you wish to rotate.
+
+6. Play the game until either a winner is declared, a tie, or the board fills up.
